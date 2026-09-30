@@ -1,0 +1,4 @@
+region = "eu-west-3"
+profile = "meditrack-deploy"
+admin_cidr = "203.0.113.42/32"
+ssh_public_key_path = "/CHEMIN/ABSOLU/.ssh/meditrack.pub"
